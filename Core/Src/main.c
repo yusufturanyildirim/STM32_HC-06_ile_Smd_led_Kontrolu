@@ -100,8 +100,6 @@ int main(void)
 
     /* USER CODE BEGIN 3 */
 
-	  // Link of project video ------->
-
 	  HAL_UART_Receive(&huart1, (uint8_t*)rx_buffer, 20, 100 );
 
 	  //Link of project video -------> https://drive.google.com/file/d/1gcIOqnaNim8oAui2243q9ArjpJsK6ofP/view?usp=sharing
